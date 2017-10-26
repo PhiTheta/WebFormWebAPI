@@ -1,0 +1,13 @@
+C:\WorkSpace\WebFormsWebAPI\WebFormsWebAPI\bin\WebFormsWebAPI.dll
+C:\WorkSpace\WebFormsWebAPI\WebFormsWebAPI\bin\WebFormsWebAPI.pdb
+C:\WorkSpace\WebFormsWebAPI\WebFormsWebAPI\bin\Newtonsoft.Json.dll
+C:\WorkSpace\WebFormsWebAPI\WebFormsWebAPI\bin\System.Net.Http.Formatting.dll
+C:\WorkSpace\WebFormsWebAPI\WebFormsWebAPI\bin\System.Web.Http.dll
+C:\WorkSpace\WebFormsWebAPI\WebFormsWebAPI\bin\System.Web.Http.WebHost.dll
+C:\WorkSpace\WebFormsWebAPI\WebFormsWebAPI\bin\Newtonsoft.Json.xml
+C:\WorkSpace\WebFormsWebAPI\WebFormsWebAPI\bin\System.Net.Http.Formatting.xml
+C:\WorkSpace\WebFormsWebAPI\WebFormsWebAPI\bin\System.Web.Http.xml
+C:\WorkSpace\WebFormsWebAPI\WebFormsWebAPI\bin\System.Web.Http.WebHost.xml
+C:\WorkSpace\WebFormsWebAPI\WebFormsWebAPI\obj\Debug\WebFormsWebAPI.csprojResolveAssemblyReference.cache
+C:\WorkSpace\WebFormsWebAPI\WebFormsWebAPI\obj\Debug\WebFormsWebAPI.dll
+C:\WorkSpace\WebFormsWebAPI\WebFormsWebAPI\obj\Debug\WebFormsWebAPI.pdb
